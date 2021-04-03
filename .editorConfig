@@ -1,0 +1,5 @@
+# @see https://editorconfig.org/
+
+root=true
+indent_size = 2
+indent_style = space
